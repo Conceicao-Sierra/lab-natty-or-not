@@ -13,7 +13,7 @@ Utilizei o Gamma.App, inseri o tema que gostaria de abordar Rotinas Inteligentes
 ##🚀 Resultados
 O e-book apresenta um conteúdo enriquecedor explicando como os Assistentes Virtuais nos ajudam a organizar a nossa rotina e melhor administrar nosso tempo, tornando a rotina moderna mais inteligente e a vida simplificada.
 
-## Link do e-book 
+# Link do e-book 
 https://gamma.app/docs/Rotinas-Inteligentes-Assistentes-Virtuais-e-a-Vida-Simplificada-de0qjn1yaa0jxzj?mode=doc 
 
 ##💭 Reflexão
