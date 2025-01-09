@@ -1,19 +1,20 @@
 #Rotinas Inteligentes: Assistentes Virtuais e a Vida Simplificada🌌
 
 ##📒 Descrição
-Este e-book de 5 páginas explora como os Assistentes Virtuais se popularizaram rapidamente e tornaram as rotinas mais inteligentes e a vida moderna mais simplificada.
+Este e-book de 8 páginas explica como os Assistentes Virtuais ajudam as pessoas a organizar a sua rotina e administrar o seu tempo. e
 
 ##🤖 Tecnologias Utilizadas
-•	IA Generativa ChatGPT para roteirização;
-•	IA Generativa Leonardo AI para criar a arte visual do e-book;
-•	Ferramenta Libre Office para edição.
+•	Utilizei o site Gamma.App para a criação do e-book;
+
 
 ##🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre Assistentes Virtuais, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o Gamma.App, inseri o tema que gostaria de abordar Rotinas Inteligentes: Assistentes Virtuais e a Vida Simplificada com a quantidade de páginas e o site fez a roteirização, criação da arte visual inserindo as fotos de acordo com o assunto e a edição, tudo de forma automática por IA. 
 
 ##🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como os Assistentes Virtuais tornaram a rotina moderna mais inteligente e a vida simplificada.
+O e-book apresenta um conteúdo enriquecedor explicando como os Assistentes Virtuais nos ajudam a organizar a nossa rotina e melhor administrar nosso tempo, tornando a rotina moderna mais inteligente e a vida simplificada.
+
+https://gamma.app/docs/Rotinas-Inteligentes-Assistentes-Virtuais-e-a-Vida-Simplificada-de0qjn1yaa0jxzj?mode=doc 
 
 ##💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o quanto os Assistentes Virtuais transformaram a nossa rotina e tornaram a nossa vida mais inteligente e fácil.
+Criar este e-book foi uma experiência fantástica de como os Assistentes Virtuais se popularizaram tão rápido e já são muito presentes no nosso dia a dia, eles transformaram a nossa rotina e tornaram a nossa vida mais inteligente e fácil.
 
