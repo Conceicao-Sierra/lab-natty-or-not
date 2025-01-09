@@ -1,7 +1,7 @@
 #Rotinas Inteligentes: Assistentes Virtuais e a Vida Simplificada🌌
 
 ##📒 Descrição
-Este e-book de 8 páginas explica como os Assistentes Virtuais ajudam as pessoas a organizar a sua rotina e administrar o seu tempo. e
+Este e-book de 8 páginas explica como os Assistentes Virtuais ajudam as pessoas a organizar a sua rotina e administrar o seu tempo. 
 
 ##🤖 Tecnologias Utilizadas
 •	Utilizei o site Gamma.App para a criação do e-book;
